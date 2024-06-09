@@ -73,10 +73,6 @@ public class PrimeNumbersUptoN extends JFrame{
 			                  	}
 			                  }
 		                   });
-
-
-
-
 	}
 	public static boolean isPrime(int num){
 
